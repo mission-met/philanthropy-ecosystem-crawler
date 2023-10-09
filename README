@@ -1,0 +1,9 @@
+
+# Philanthropy Ecosystem Distribution by Industry
+
+Crawl https://platform.dkv.global/mind-map/philanthropy-industry/group/6273-Inclusive%20Development/ and find all results.
+
+```ruby
+bundle install
+bundle exec ruby crawler.rb
+```
